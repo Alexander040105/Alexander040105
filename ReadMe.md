@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying Computer Science at the University of Perpetual Help - Systetm DALTA Molino Campus. I am  currently focusing on learning and practicing my python nd data analyst skills.
+I am currently studying Computer Science at the University of Perpetual Help - Systetm DALTA Molino Campus. I am  currently focusing on learning and practicing my python and data analyst skills.
 
 
 ## 🌐 Socials:
